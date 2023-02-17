@@ -1,3 +1,3 @@
 <template>
-    详情
+    详情s
 </template>
